@@ -22,7 +22,6 @@ DateTime   now;
 #define button1       A1   // button B1 is connected to Arduino pin A1
 #define button2       A2   // button B2 is connected to Arduino pin A2
 // define DS18B20 data pin
-//#define DS18B20_PIN   A3
 #define button4 A3
 File dataLog;
 boolean sd_ok = 0;
